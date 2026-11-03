@@ -1,0 +1,1945 @@
+{
+  "id": "ZeroSleep8m",
+  "slug": "zero-sleep-8m",
+  "language": "vi",
+  "narrative_archetype": "forensic_anatomy_mystery",
+  "topic": "Điều gì xảy ra nếu con người mở khóa đột biến gen không ngủ và thức trắng suốt phần đời còn lại?",
+  "title": [
+    "ĐIỀU GÌ XẢY RA NẾU BẠN",
+    "KHÔNG BAO GIỜ CẦN NGỦ NỮA?"
+  ],
+  "accent": "#4CC9F0",
+  "fps": 24,
+  "lead": 2,
+  "tail": 1.5,
+  "target_duration_sec": 504.0,
+  "gaps": {
+    "sentence": 0.24,
+    "comma": 0.11,
+    "clause": 0.14,
+    "preserve_beat_pauses": true
+  },
+  "script": [
+    {
+      "beat": "1 cold open bedroom 03am",
+      "text": "Đồng hồ điện tử trên bàn chỉ 3 giờ 14 phút sáng. Cả thành phố chìm trong bóng tối tĩnh mịch, còn bạn đã thức trắng suốt 36 giờ liên tiếp mà đôi mắt vẫn sáng rực, không hề có lấy một cái ngáp.",
+      "spoken_text": "Đồng hồ điện tử trên bàn chỉ ba giờ mười bốn phút sáng. Cả thành phố chìm trong bóng tối tĩnh mịch, còn bạn đã thức trắng suốt ba mươi sáu giờ liên tiếp mà đôi mắt vẫn sáng rực, không hề có lấy một cái ngáp."
+    },
+    {
+      "beat": "1 cold open bedroom brain",
+      "text": "Thông thường, sau một đêm mất ngủ, chất dẫn truyền gây buồn ngủ A-đê-nô-xin sẽ tràn ngập vỏ não khiến mí mắt bạn sập xuống như đeo chì. Nhưng đêm nay, mọi thụ thể gây mệt mỏi trong đầu bạn đều im lặng tuyệt đối.",
+      "spoken_text": "Thông thường, sau một đêm mất ngủ, chất dẫn truyền gây buồn ngủ A-đê-nô-xin sẽ tràn ngập vỏ não khiến mí mắt bạn sập xuống như đeo chì. Nhưng đêm nay, mọi thụ thể gây mệt mỏi trong đầu bạn đều im lặng tuyệt đối."
+    },
+    {
+      "beat": "1 cold open subway 04am",
+      "text": "4 giờ sáng trên chuyến tàu điện ngầm vắng lặng, những hành khách đi làm sớm đều gục đầu ngủ gật trên tay vịn. Chỉ riêng bạn ngồi thẳng lưng, đọc ngấu nghiến hết cuốn giáo trình vật lý thiên văn dày 400 trang.",
+      "spoken_text": "Bốn giờ sáng trên chuyến tàu điện ngầm vắng lặng, những hành khách đi làm sớm đều gục đầu ngủ gật trên tay vịn. Chỉ riêng bạn ngồi thẳng lưng, đọc ngấu nghiến hết cuốn giáo trình vật lý thiên văn dày bốn trăm trang."
+    },
+    {
+      "beat": "1 cold open subway speed",
+      "text": "Từng công thức đạo hàm và biểu đồ phổ sao trôi vào trí nhớ của bạn nhanh đến mức kỳ lạ, sắc nét như thể não bộ vừa được nâng cấp thêm một bộ vi xử lý lượng tử.",
+      "spoken_text": "Từng công thức đạo hàm và biểu đồ phổ sao trôi vào trí nhớ của bạn nhanh đến mức kỳ lạ, sắc nét như thể não bộ vừa được nâng cấp thêm một bộ vi xử lý lượng tử."
+    },
+    {
+      "beat": "1 cold open observatory 05am",
+      "text": "5 giờ 30 phút sáng tại đài thiên văn trên đỉnh đồi, cậu bạn thân Mo bước vào với đôi mắt thâm quầng và hai cốc cà phê đặc, sửng sốt thấy bạn đã hiệu chỉnh xong toàn bộ kính viễn vọng từ lúc nửa đêm.",
+      "spoken_text": "Năm giờ ba mươi phút sáng tại đài thiên văn trên đỉnh đồi, cậu bạn thân Mo bước vào với đôi mắt thâm quầng và hai cốc cà phê đặc, sửng sốt thấy bạn đã hiệu chỉnh xong toàn bộ kính viễn vọng từ lúc nửa đêm."
+    },
+    {
+      "beat": "1 cold open observatory sunrise",
+      "text": "Khi tia nắng bình minh đầu tiên chiếu qua mái vòm thép, bạn nhận ra mình vừa bước qua cột mốc 72 giờ không ngủ mà nhịp tim vẫn ổn định ở mức 64 nhịp/phút.",
+      "spoken_text": "Khi tia nắng bình minh đầu tiên chiếu qua mái vòm thép, bạn nhận ra mình vừa bước qua cột mốc bảy mươi hai giờ không ngủ mà nhịp tim vẫn ổn định ở mức sáu mươi tư nhịp một phút."
+    },
+    {
+      "beat": "2 premise title",
+      "text": "Điều gì sẽ xảy ra nếu con người mở khóa đột biến gen sinh học và không bao giờ cần ngủ nữa? Nghe giống như món quà tiến hóa vĩ đại nhất lịch sử, nhưng cơ thể bạn sẽ phải đối mặt với 3 quy luật sinh tồn khắt khe.",
+      "spoken_text": "Điều gì sẽ xảy ra nếu con người mở khóa đột biến gen sinh học và không bao giờ cần ngủ nữa? Nghe giống như món quà tiến hóa vĩ đại nhất lịch sử, nhưng cơ thể bạn sẽ phải đối mặt với ba quy luật sinh tồn khắt khe."
+    },
+    {
+      "beat": "2 premise third of life",
+      "text": "Trung bình một người dành ra 8 giờ mỗi ngày, tức đúng 1/3 cuộc đời chỉ để nằm bất động trong bóng tối. Trong vòng đời 81 năm, bạn mất trọn 27 năm hoàn toàn vô thức trên chiếc giường của mình.",
+      "spoken_text": "Trung bình một người dành ra tám giờ mỗi ngày, tức đúng một phần ba cuộc đời chỉ để nằm bất động trong bóng tối. Trong vòng đời tám mươi mốt năm, bạn mất trọn hai mươi bảy năm hoàn toàn vô thức trên chiếc giường của mình."
+    },
+    {
+      "beat": "2 rule 1 dec2 gene",
+      "text": "Quy luật thứ nhất: trong phòng thí nghiệm thần kinh, đột biến kép trên gen Đê-E-Xê-Hai kết hợp màng chắn thụ thể A-đê-nô-xin sẽ khóa chặt công tắc gây buồn ngủ ở vùng dưới đồi, giữ sự tỉnh táo ở mức 100% suốt ngày đêm.",
+      "spoken_text": "Quy luật thứ nhất: trong phòng thí nghiệm thần kinh, đột biến kép trên gen Đê-E-Xê-Hai kết hợp màng chắn thụ thể A-đê-nô-xin sẽ khóa chặt công tắc gây buồn ngủ ở vùng dưới đồi, giữ sự tỉnh táo ở mức một trăm phần trăm suốt ngày đêm."
+    },
+    {
+      "beat": "2 rule 2 extra hours",
+      "text": "Quy luật thứ hai: mỗi ngày của bạn lập tức dài thêm 8 giờ hoạt động thực tế. Tính trên 1 năm, bạn có dư ra 2.920 giờ tỉnh táo, tương đương với việc sống thêm gần 4 tháng rưỡi so với mọi người xung quanh.",
+      "spoken_text": "Quy luật thứ hai: mỗi ngày của bạn lập tức dài thêm tám giờ hoạt động thực tế. Tính trên một năm, bạn có dư ra hai nghìn chín trăm hai mươi giờ tỉnh táo, tương đương với việc sống thêm gần bốn tháng rưỡi so với mọi người xung quanh."
+    },
+    {
+      "beat": "2 rule 3 metabolic cost",
+      "text": "Quy luật thứ ba: vì cơ thể không còn bước vào pha hạ nhiệt và tiết kiệm năng lượng lúc nửa đêm, bộ não và cơ bắp của bạn buộc phải tiêu thụ nhiên liệu ở công suất ban ngày suốt 24 giờ không nghỉ.",
+      "spoken_text": "Quy luật thứ ba: vì cơ thể không còn bước vào pha hạ nhiệt và tiết kiệm năng lượng lúc nửa đêm, bộ não và cơ bắp của bạn buộc phải tiêu thụ nhiên liệu ở công suất ban ngày suốt hai mươi tư giờ không nghỉ."
+    },
+    {
+      "beat": "2 rule summary",
+      "text": "Không còn cơn ngáp, không còn đồng hồ báo thức, nhưng cũng không còn bất kỳ khoảng nghỉ sinh học nào cho các tế bào thần kinh.",
+      "spoken_text": "Không còn cơn ngáp, không còn đồng hồ báo thức, nhưng cũng không còn bất kỳ khoảng nghỉ sinh học nào cho các tế bào thần kinh."
+    },
+    {
+      "beat": "3 month 1 study polymath",
+      "text": "Trong tháng đầu tiên, cuộc sống của bạn bùng nổ như một phép màu. Khi đồng hồ điểm 11 giờ đêm và cả khu phố tắt đèn đi ngủ, ca sống thứ hai trong ngày của bạn mới chính thức bắt đầu.",
+      "spoken_text": "Trong tháng đầu tiên, cuộc sống của bạn bùng nổ như một phép màu. Khi đồng hồ điểm mười một giờ đêm và cả khu phố tắt đèn đi ngủ, ca sống thứ hai trong ngày của bạn mới chính thức bắt đầu."
+    },
+    {
+      "beat": "3 month 1 languages and code",
+      "text": "Từ nửa đêm tới 4 giờ sáng trong phòng học, bạn thông thạo thêm 3 ngoại ngữ mới, tự viết xong một hệ điều hành trí tuệ nhân tạo và luyện đàn vi-ô-lông dưới ánh đèn bàn ấm áp.",
+      "spoken_text": "Từ nửa đêm tới bốn giờ sáng trong phòng học, bạn thông thạo thêm ba ngoại ngữ mới, tự viết xong một hệ điều hành trí tuệ nhân tạo và luyện đàn vi-ô-lông dưới ánh đèn bàn ấm áp."
+    },
+    {
+      "beat": "3 month 1 mo sleeping",
+      "text": "Ở ghế sofa bên cạnh, Mo đã ngủ say từ lúc 1 giờ sáng sau khi cố thức cùng bạn. Trong vòng 30 ngày, khối lượng kiến thức bạn hấp thụ bằng người bình thường học tập suốt 3 năm rưỡi.",
+      "spoken_text": "Ở ghế sô-pha bên cạnh, Mo đã ngủ say từ lúc một giờ sáng sau khi cố thức cùng bạn. Trong vòng ba mươi ngày, khối lượng kiến thức bạn hấp thụ bằng người bình thường học tập suốt ba năm rưỡi."
+    },
+    {
+      "beat": "3 month 1 kitchen feast",
+      "text": "Nhưng đến 2 giờ 30 phút sáng, cơn đói dữ dội kéo bạn vào căn bếp. Thức trắng suốt đêm khiến cơ thể đốt thêm 650 kilocalo mỗi ngày, buộc bạn phải nấu thêm một bữa ăn lớn lúc rạng sáng.",
+      "spoken_text": "Nhưng đến hai giờ ba mươi phút sáng, cơn đói dữ dội kéo bạn vào căn bếp. Thức trắng suốt đêm khiến cơ thể đốt thêm sáu trăm năm mươi ki-lô-ca-lo mỗi ngày, buộc bạn phải nấu thêm một bữa ăn lớn lúc rạng sáng."
+    },
+    {
+      "beat": "3 month 1 kitchen family",
+      "text": "Mẹ và em gái bước xuống bếp lúc 6 giờ sáng, ngỡ ngàng nhìn bàn ăn thịnh soạn đã bày sẵn cùng chồng bản thảo dày cộp bạn vừa hoàn thành trong đêm.",
+      "spoken_text": "Mẹ và em gái bước xuống bếp lúc sáu giờ sáng, ngỡ ngàng nhìn bàn ăn thịnh soạn đã bày sẵn cùng chồng bản thảo dày cộp bạn vừa hoàn thành trong đêm."
+    },
+    {
+      "beat": "3 month 1 rooftop dawn",
+      "text": "Đứng trên sân thượng ngắm mặt trời mọc lần thứ 60 liên tiếp không chợp mắt, bạn cảm thấy mình như một vị thần nắm giữ thời gian gấp đôi nhân loại.",
+      "spoken_text": "Đứng trên sân thượng ngắm mặt trời mọc lần thứ sáu mươi liên tiếp không chợp mắt, bạn cảm thấy mình như một vị thần nắm giữ thời gian gấp đôi nhân loại."
+    },
+    {
+      "beat": "4 month 3 stairwell isolation",
+      "text": "Thế nhưng sang tháng thứ ba, tức sau 2.160 giờ thức trắng liên tục, mặt tối tâm lý đầu tiên bắt đầu lộ diện trên những bậc cầu thang vắng lặng lúc 3 giờ sáng.",
+      "spoken_text": "Thế nhưng sang tháng thứ ba, tức sau hai nghìn một trăm sáu mươi giờ thức trắng liên tục, mặt tối tâm lý đầu tiên bắt đầu lộ diện trên những bậc cầu thang vắng lặng lúc ba giờ sáng."
+    },
+    {
+      "beat": "4 month 3 unbroken afternoon",
+      "text": "Giấc ngủ vốn là dấu chấm câu giúp bộ não đóng lại ngày hôm qua và mở ra ngày hôm nay. Khi không còn giấc ngủ, 90 ngày qua trong tâm trí bạn hòa làm một buổi chiều dài lê thê không có điểm dừng.",
+      "spoken_text": "Giấc ngủ vốn là dấu chấm câu giúp bộ não đóng lại ngày hôm qua và mở ra ngày hôm nay. Khi không còn giấc ngủ, chín mươi ngày qua trong tâm trí bạn hòa làm một buổi chiều dài lê thê không có điểm dừng."
+    },
+    {
+      "beat": "4 month 3 classroom time blur",
+      "text": "Ngồi trong giảng đường đại học, bạn không tài nào phân biệt nổi cuộc trò chuyện với Mo vừa diễn ra cách đây 20 phút hay đã trôi qua từ 2 tuần trước.",
+      "spoken_text": "Ngồi trong giảng đường đại học, bạn không tài nào phân biệt nổi cuộc trò chuyện với Mo vừa diễn ra cách đây hai mươi phút hay đã trôi qua từ hai tuần trước."
+    },
+    {
+      "beat": "4 month 3 rem intrusion",
+      "text": "Đáng sợ hơn, dù bạn đã tắt công tắc buồn ngủ, bộ não vẫn tuyệt vọng đòi hỏi giấc ngủ mắt chuyển động nhanh Rê-Em để giải tỏa cảm xúc. Khi bị chặn lại ban đêm, các giấc mơ bắt đầu tràn thẳng vào lúc bạn đang mở mắt.",
+      "spoken_text": "Đáng sợ hơn, dù bạn đã tắt công tắc buồn ngủ, bộ não vẫn tuyệt vọng đòi hỏi giấc ngủ mắt chuyển động nhanh Rê-Em để giải tỏa cảm xúc. Khi bị chặn lại ban đêm, các giấc mơ bắt đầu tràn thẳng vào lúc bạn đang mở mắt."
+    },
+    {
+      "beat": "4 month 3 chalkboard hallucination",
+      "text": "Ngay giữa tiết học sinh học phân tử, những dải sóng ánh sáng tím và các chòm sao kỳ ảo bất ngờ trôi lơ lửng ngay trên bảng đen trước mặt bạn trong suốt 15 giây.",
+      "spoken_text": "Ngay giữa tiết học sinh học phân tử, những dải sóng ánh sáng tím và các chòm sao kỳ ảo bất ngờ trôi lơ lửng ngay trên bảng đen trước mặt bạn trong suốt mười lăm giây."
+    },
+    {
+      "beat": "4 month 3 tremor warning",
+      "text": "Khi bạn cúi xuống ghi chép, những ngón tay bắt đầu run lên từng nhịp nhỏ và nhiệt độ vùng trán tăng vọt lên mức 38,6°C không rõ nguyên nhân.",
+      "spoken_text": "Khi bạn cúi xuống ghi chép, những ngón tay bắt đầu run lên từng nhịp nhỏ và nhiệt độ vùng trán tăng vọt lên mức ba mươi tám phẩy sáu độ xê không rõ nguyên nhân."
+    },
+    {
+      "beat": "5 science turn question",
+      "text": "Tại sao tự nhiên lại bắt mọi loài động vật có vú phải nằm bất động hàng giờ trước mặt kẻ săn mồi? Câu trả lời nằm ở một hệ thống giải phẫu bí mật chỉ vừa được khoa học phát hiện vào năm 2013.",
+      "spoken_text": "Tại sao tự nhiên lại bắt mọi loài động vật có vú phải nằm bất động hàng giờ trước mặt kẻ săn mồi? Câu trả lời nằm ở một hệ thống giải phẫu bí mật chỉ vừa được khoa học phát hiện vào năm hai nghìn không trăm mười ba."
+    },
+    {
+      "beat": "5 science glymphatic space",
+      "text": "Đó là hệ thống rửa não Glym-pha-tíc. Khi bạn thức, các tế bào thần kinh và tế bào đệm nằm sát khít nhau, khiến dịch não tủy hầu như không thể len lỏi qua các khe hẹp chỉ rộng vài chục na-nô-mét.",
+      "spoken_text": "Đó là hệ thống rửa não Gờ-lim-pha-tíc. Khi bạn thức, các tế bào thần kinh và tế bào đệm nằm sát khít nhau, khiến dịch não tủy hầu như không thể len lỏi qua các khe hẹp chỉ rộng vài chục na-nô-mét."
+    },
+    {
+      "beat": "5 science glial shrink 60 percent",
+      "text": "Chỉ khi bạn chìm vào giấc ngủ sâu sóng chậm, các tế bào hình sao mới đột ngột co nhỏ lại, làm khoảng không gian kẽ giữa các nơ-ron giãn rộng thêm tới 60%.",
+      "spoken_text": "Chỉ khi bạn chìm vào giấc ngủ sâu sóng chậm, các tế bào hình sao mới đột ngột co nhỏ lại, làm khoảng không gian kẽ giữa các nơ-ron giãn rộng thêm tới sáu mươi phần trăm."
+    },
+    {
+      "beat": "5 science beta amyloid flush",
+      "text": "Lúc này, dòng dịch não tủy mới tuôn trào qua mô não như một chiếc máy rửa bát áp lực cao, cuốn trôi hai loại độc tố thần kinh nguy hiểm nhất là protein Bê-ta A-mi-loi và protein Tau nhanh gấp 20 lần lúc thức.",
+      "spoken_text": "Lúc này, dòng dịch não tủy mới tuôn trào qua mô não như một chiếc máy rửa bát áp lực cao, cuốn trôi hai loại độc tố thần kinh nguy hiểm nhất là prô-tê-in Bê-ta A-mi-loi và prô-tê-in Tau nhanh gấp hai mươi lần lúc thức."
+    },
+    {
+      "beat": "5 science plaque accumulation",
+      "text": "Mỗi ngày thức trắng, bộ não không được tắm rửa sẽ tích tụ thêm khoảng 20 mi-li-gam rác thải chuyển hóa. Sau 1 năm không ngủ, hơn 7 gam mảng bám độc hại sẽ bít kín các đường dẫn truyền trí nhớ của bạn.",
+      "spoken_text": "Mỗi ngày thức trắng, bộ não không được tắm rửa sẽ tích tụ thêm khoảng hai mươi mi-li-gam rác thải chuyển hóa. Sau một năm không ngủ, hơn bảy gam mảng bám độc hại sẽ bít kín các đường dẫn truyền trí nhớ của bạn."
+    },
+    {
+      "beat": "5 science brain power 20w",
+      "text": "Chưa hết, hãy xét đến bài toán nhiệt động lực học. Bộ não con người chỉ nặng khoảng 1,4 kg, chiếm 2% trọng lượng cơ thể, nhưng lại chứa tới 86 tỷ nơ-ron và ngốn trọn 20% tổng năng lượng toàn thân.",
+      "spoken_text": "Chưa hết, hãy xét đến bài toán nhiệt động lực học. Bộ não con người chỉ nặng khoảng một phẩy bốn ki-lô-gam, chiếm hai phần trăm trọng lượng cơ thể, nhưng lại chứa tới tám mươi sáu tỷ nơ-ron và ngốn trọn hai mươi phần trăm tổng năng lượng toàn thân."
+    },
+    {
+      "beat": "5 science thermal cooling",
+      "text": "Ở trạng thái thức, 86 tỷ nơ-ron phát xung liên tục tạo ra công suất nhiệt tương đương một bóng đèn 20 oát. Giấc ngủ sâu chính là lúc não bộ hạ nhiệt độ lõi xuống 1,2°C để sửa chữa màng tế bào và tái tạo phân tử năng lượng A-Tê-Pê.",
+      "spoken_text": "Ở trạng thái thức, tám mươi sáu tỷ nơ-ron phát xung liên tục tạo ra công suất nhiệt tương đương một bóng đèn hai mươi oát. Giấc ngủ sâu chính là lúc não bộ hạ nhiệt độ lõi xuống một phẩy hai độ xê để sửa chữa màng tế bào và tái tạo phân tử năng lượng A-Tê-Pê."
+    },
+    {
+      "beat": "5 science oxidative stress",
+      "text": "Khi chạy hết công suất suốt 24 giờ mỗi ngày mà không hạ nhiệt, các ti thể trong nơ-ron bắt đầu rò rỉ gốc tự do ô-xy hóa, làm tổn thương trực tiếp lớp vỏ bọc my-ê-lin.",
+      "spoken_text": "Khi chạy hết công suất suốt hai mươi tư giờ mỗi ngày mà không hạ nhiệt, các ti thể trong nơ-ron bắt đầu rò rỉ gốc tự do ô-xy hóa, làm tổn thương trực tiếp lớp vỏ bọc mi-ê-lin."
+    },
+    {
+      "beat": "6 zoo dolphin intro",
+      "text": "Vậy làm thế nào một số loài động vật hoang dã có thể bơi hoặc bay liên tục nhiều tuần liền mà không chết vì ngộ độc thần kinh? Hãy lặn xuống đại dương ở độ sâu 420 mét để quan sát loài cá heo mũi chai.",
+      "spoken_text": "Vậy làm thế nào một số loài động vật hoang dã có thể bơi hoặc bay liên tục nhiều tuần liền mà không chết vì ngộ độc thần kinh? Hãy lặn xuống đại dương ở độ sâu bốn trăm hai mươi mét để quan sát loài cá heo mũi chai."
+    },
+    {
+      "beat": "6 zoo dolphin brain zoom",
+      "text": "Khác với con người, cá heo là động vật có vú phải chủ động trồi lên mặt nước để hít thở. Khi phóng đại vào hộp sọ và bộ não của cá heo, ta thấy một cơ chế tiến hóa kỳ diệu mang tên giấc ngủ sóng chậm đơn bán cầu.",
+      "spoken_text": "Khác với con người, cá heo là động vật có vú phải chủ động trồi lên mặt nước để hít thở. Khi phóng đại vào hộp sọ và bộ não của cá heo, ta thấy một cơ chế tiến hóa kỳ diệu mang tên giấc ngủ sóng chậm đơn bán cầu."
+    },
+    {
+      "beat": "6 zoo dolphin eye and lungs",
+      "text": "Trong suốt 2 giờ liền, bán cầu não trái của cá heo chìm vào giấc ngủ sâu để bơm dịch não tủy rửa sạch độc tố, trong khi bán cầu não phải vẫn thức tỉnh hoàn toàn để điều khiển phổi hít thở và mở con mắt bên trái canh chừng cá mập.",
+      "spoken_text": "Trong suốt hai giờ liền, bán cầu não trái của cá heo chìm vào giấc ngủ sâu để bơm dịch não tủy rửa sạch độc tố, trong khi bán cầu não phải vẫn thức tỉnh hoàn toàn để điều khiển phổi hít thở và mở con mắt bên trái canh chừng cá mập."
+    },
+    {
+      "beat": "6 zoo dolphin swap",
+      "text": "Sau đúng 120 phút, hai nửa bộ não của cá heo lập tức đổi ca cho nhau: bán cầu phải đi ngủ, còn bán cầu trái thức dậy điều khiển cơ thể bơi tiếp không ngừng nghỉ.",
+      "spoken_text": "Sau đúng một trăm hai mươi phút, hai nửa bộ não của cá heo lập tức đổi ca cho nhau: bán cầu phải đi ngủ, còn bán cầu trái thức dậy điều khiển cơ thể bơi tiếp không ngừng nghỉ."
+    },
+    {
+      "beat": "6 zoo shark spine zoom",
+      "text": "Cách đó không xa, loài cá mập trắng lớn cũng không bao giờ được phép dừng lại, vì chúng phải bơi liên tục để ép dòng nước giàu ô-xy chảy qua khe mang. Khi soi vào cột sống và tủy sống của cá mập, bí mật nằm ở mạng lưới phát nhịp trung ương.",
+      "spoken_text": "Cách đó không xa, loài cá mập trắng lớn cũng không bao giờ được phép dừng lại, vì chúng phải bơi liên tục để ép dòng nước giàu ô-xy chảy qua khe mang. Khi soi vào cột sống và tủy sống của cá mập, bí mật nằm ở mạng lưới phát nhịp trung ương."
+    },
+    {
+      "beat": "6 zoo shark heart and swim",
+      "text": "Cá mập chuyển toàn bộ quyền điều khiển quẫy đuôi từ não bộ xuống tủy sống và giữ nhịp tim ổn định, cho phép vùng não trước nghỉ ngơi ngay cả khi cơ thể vẫn đang lướt đi trong lòng đại dương.",
+      "spoken_text": "Cá mập chuyển toàn bộ quyền điều khiển quẫy đuôi từ não bộ xuống tủy sống và giữ nhịp tim ổn định, cho phép vùng não trước nghỉ ngơi ngay cả khi cơ thể vẫn đang lướt đi trong lòng đại dương."
+    },
+    {
+      "beat": "6 zoo eagle flight zoom",
+      "text": "Bay lên bầu trời phía trên cánh rừng già, các loài chim săn mồi và chim hải âu lớn có thể bay vượt đại dương suốt 10 ngày liền trên quãng đường 10.000 km mà không hề đáp xuống đất.",
+      "spoken_text": "Bay lên bầu trời phía trên cánh rừng già, các loài chim săn mồi và chim hải âu lớn có thể bay vượt đại dương suốt mười ngày liền trên quãng đường mười nghìn ki-lô-mét mà không hề đáp xuống đất."
+    },
+    {
+      "beat": "6 zoo eagle eye and cat neuron",
+      "text": "Khi phóng đại vào mắt, võng mạc và não của đại bàng khi đang lượn theo luồng khí nóng, chúng thực hiện hàng trăm giấc ngủ siêu ngắn chỉ kéo dài 12 giây giữa không trung; trong khi loài mèo rừng sử dụng các pha ngủ ngắn đa chu kỳ để cắt tỉa khớp thần kinh và giữ tốc độ phản xạ ở mức 70 mili-giây.",
+      "spoken_text": "Khi phóng đại vào mắt, võng mạc và não của đại bàng khi đang lượn theo luồng khí nóng, chúng thực hiện hàng trăm giấc ngủ siêu ngắn chỉ kéo dài mười hai giây giữa không trung; trong khi loài mèo rừng sử dụng các pha ngủ ngắn đa chu kỳ để cắt tỉa khớp thần kinh và giữ tốc độ phản xạ ở mức bảy mươi mi-li-giây."
+    },
+    {
+      "beat": "7 society highway 8 billion",
+      "text": "Nhưng con người không có bộ não chia đôi của cá heo hay tủy sống tự hành của cá mập. Hãy tưởng tượng chuyện gì sẽ xảy ra ở năm thứ nhất, khi liệu pháp xóa bỏ giấc ngủ lan ra toàn bộ 8 tỷ người trên Trái Đất.",
+      "spoken_text": "Nhưng con người không có bộ não chia đôi của cá heo hay tủy sống tự hành của cá mập. Hãy tưởng tượng chuyện gì sẽ xảy ra ở năm thứ nhất, khi liệu pháp xóa bỏ giấc ngủ lan ra toàn bộ tám tỷ người trên Trái Đất."
+    },
+    {
+      "beat": "7 society 3am rush hour",
+      "text": "Trên các tuyến đường cao tốc trên cao lúc 3 giờ sáng, khái niệm ban đêm hoàn toàn biến mất. Dòng xe cộ nối đuôi nhau sáng rực dưới chân những tòa cao ốc không bao giờ tắt đèn.",
+      "spoken_text": "Trên các tuyến đường cao tốc trên cao lúc ba giờ sáng, khái niệm ban đêm hoàn toàn biến mất. Dòng xe cộ nối đuôi nhau sáng rực dưới chân những tòa cao ốc không bao giờ tắt đèn."
+    },
+    {
+      "beat": "7 society industries collapse",
+      "text": "Chỉ trong vòng 6 tháng, toàn bộ ngành công nghiệp sản xuất nệm, chăn gối, thuốc ngủ và hệ thống khách sạn nghỉ đêm trị giá 580 tỷ đô la sụp đổ hoàn toàn vì không còn ai cần đến giường ngủ.",
+      "spoken_text": "Chỉ trong vòng sáu tháng, toàn bộ ngành công nghiệp sản xuất nệm, chăn gối, thuốc ngủ và hệ thống khách sạn nghỉ đêm trị giá năm trăm tám mươi tỷ đô la sụp đổ hoàn toàn vì không còn ai cần đến giường ngủ."
+    },
+    {
+      "beat": "7 society food demand",
+      "text": "Ngược lại, chuỗi cung ứng lương thực toàn cầu rơi vào khủng hoảng chưa từng có: với 8 tỷ người tiêu thụ thêm 600 kilocalo mỗi đêm, nhân loại cần thêm 4,8 nghìn tỷ kilocalo thực phẩm mỗi ngày, buộc các nông trại chiếu đèn nhân tạo canh tác liên tục.",
+      "spoken_text": "Ngược lại, chuỗi cung ứng lương thực toàn cầu rơi vào khủng hoảng chưa từng có: với tám tỷ người tiêu thụ thêm sáu trăm ki-lô-ca-lo mỗi đêm, nhân loại cần thêm bốn phẩy tám nghìn tỷ ki-lô-ca-lo thực phẩm mỗi ngày, buộc các nông trại chiếu đèn nhân tạo canh tác liên tục."
+    },
+    {
+      "beat": "7 society server vault 16h shift",
+      "text": "Bên trong các trung tâm dữ liệu ngầm, lời hứa hẹn về 8 giờ tự do mỗi ngày nhanh chóng biến thành cơn ác mộng kinh tế. Khi mọi người đều có 24 giờ tỉnh táo, các tập đoàn lập tức nâng chuẩn ngày làm việc từ 8 giờ lên 16 giờ.",
+      "spoken_text": "Bên trong các trung tâm dữ liệu ngầm, lời hứa hẹn về tám giờ tự do mỗi ngày nhanh chóng biến thành cơn ác mộng kinh tế. Khi mọi người đều có hai mươi tư giờ tỉnh táo, các tập đoàn lập tức nâng chuẩn ngày làm việc từ tám giờ lên mười sáu giờ."
+    },
+    {
+      "beat": "7 society grid overload",
+      "text": "Lưới điện toàn cầu phải gánh thêm 35% phụ tải chiếu sáng và làm mát máy chủ suốt đêm, tương đương hơn 10.000 tê-ra-oát-giờ mỗi năm, đẩy nhiệt độ các đô thị lớn tăng thêm 2,4°C.",
+      "spoken_text": "Lưới điện toàn cầu phải gánh thêm ba mươi lăm phần trăm phụ tải chiếu sáng và làm mát máy chủ suốt đêm, tương đương hơn mười nghìn tê-ra-oát-giờ mỗi năm, đẩy nhiệt độ các đô thị lớn tăng thêm hai phẩy bốn độ xê."
+    },
+    {
+      "beat": "7 society human exhaustion",
+      "text": "Giữa những dãy tháp máy chủ nóng rực, bạn và Mo làm việc quần quật ở ca trực thứ ba trong ngày, nhận ra rằng khi không ai ngủ, con người chỉ đơn giản là làm việc gấp đôi để giữ nguyên vị trí cũ.",
+      "spoken_text": "Giữa những dãy tháp máy chủ nóng rực, bạn và Mo làm việc quần quật ở ca trực thứ ba trong ngày, nhận ra rằng khi không ai ngủ, con người chỉ đơn giản là làm việc gấp đôi để giữ nguyên vị trí cũ."
+    },
+    {
+      "beat": "7 society social friction",
+      "text": "Không có giấc ngủ để làm dịu hạch hạnh nhân trong não, mức hoóc-môn căng thẳng coóc-ti-zôn của toàn xã hội tăng gấp 3 lần, biến mọi cuộc tranh cãi nhỏ ngoài đường phố thành những vụ xung đột bùng phát.",
+      "spoken_text": "Không có giấc ngủ để làm dịu hạch hạnh nhân trong não, mức hoóc-môn căng thẳng coóc-ti-zôn của toàn xã hội tăng gấp ba lần, biến mọi cuộc tranh cãi nhỏ ngoài đường phố thành những vụ xung đột bùng phát."
+    },
+    {
+      "beat": "8 climax hour 8760 icu",
+      "text": "Và rồi cột mốc định mệnh cũng điểm: giờ thứ 8.760, tức tròn 1 năm bạn không hề chợp mắt. Ngay giữa phòng làm việc, bạn đột ngột đánh rơi chiếc cốc và được đưa thẳng vào phòng cấp cứu thần kinh.",
+      "spoken_text": "Và rồi cột mốc định mệnh cũng điểm: giờ thứ tám nghìn bảy trăm sáu mươi, tức tròn một năm bạn không hề chợp mắt. Ngay giữa phòng làm việc, bạn đột ngột đánh rơi chiếc cốc và được đưa thẳng vào phòng cấp cứu thần kinh."
+    },
+    {
+      "beat": "8 climax synaptic homeostasis",
+      "text": "Trên màn hình chụp cắt lớp, nguyên nhân cuối cùng khiến con người không thể sống thiếu giấc ngủ hiện lên rõ mồn một: hiện tượng bão hòa khớp thần kinh theo nguyên lý cân bằng nội môi của Tô-nô-ni và Xi-rê-li.",
+      "spoken_text": "Trên màn hình chụp cắt lớp, nguyên nhân cuối cùng khiến con người không thể sống thiếu giấc ngủ hiện lên rõ mồn một: hiện tượng bão hòa khớp thần kinh theo nguyên lý cân bằng nội môi của Tô-nô-ni và Xi-rê-li."
+    },
+    {
+      "beat": "8 climax 150 trillion synapses",
+      "text": "Bộ não của bạn có khoảng 150 nghìn tỷ khớp nối thần kinh. Mỗi khi bạn nhìn, nghe và học một điều mới lúc thức, các khớp nối này lại phình to ra thêm khoảng 18% để lưu trữ thông tin.",
+      "spoken_text": "Bộ não của bạn có khoảng một trăm năm mươi nghìn tỷ khớp nối thần kinh. Mỗi khi bạn nhìn, nghe và học một điều mới lúc thức, các khớp nối này lại phình to ra thêm khoảng mười tám phần trăm để lưu trữ thông tin."
+    },
+    {
+      "beat": "8 climax memory full",
+      "text": "Giấc ngủ sâu vốn là lúc não bộ cắt tỉa và thu nhỏ các kết nối thừa để giải phóng dung lượng cho ngày hôm sau. Sau 365 ngày chỉ nạp vào mà không bao giờ dọn dẹp, toàn bộ 150 nghìn tỷ khớp thần kinh của bạn đã chạm ngưỡng bão hòa 100%.",
+      "spoken_text": "Giấc ngủ sâu vốn là lúc não bộ cắt tỉa và thu nhỏ các kết nối thừa để giải phóng dung lượng cho ngày hôm sau. Sau ba trăm sáu mươi lăm ngày chỉ nạp vào mà không bao giờ dọn dẹp, toàn bộ một trăm năm mươi nghìn tỷ khớp thần kinh của bạn đã chạm ngưỡng bão hòa một trăm phần trăm."
+    },
+    {
+      "beat": "8 climax forgetting sis",
+      "text": "Khi em gái và Mo nắm lấy tay bạn bên giường bệnh, bạn nhìn họ chằm chằm trong hoảng loạn: ổ cứng sinh học trong hồi hải mã đã đầy cứng, khiến bạn quên sạch câu nói vừa nghe chỉ sau đúng 10 giây.",
+      "spoken_text": "Khi em gái và Mo nắm lấy tay bạn bên giường bệnh, bạn nhìn họ chằm chằm trong hoảng loạn: ổ cứng sinh học trong hồi hải mã đã đầy cứng, khiến bạn quên sạch câu nói vừa nghe chỉ sau đúng mười giây."
+    },
+    {
+      "beat": "8 climax dolphin protocol",
+      "text": "Nhiệt độ vỏ não chạm mức nguy kịch 40,8°C. Vì gen Đê-E-Xê-Hai đã khóa vĩnh viễn khả năng ngủ toàn phần, Mo chỉ còn một cách duy nhất để cứu mạng bạn: kích hoạt vòng điều biến bán cầu não mô phỏng loài cá heo.",
+      "spoken_text": "Nhiệt độ vỏ não chạm mức nguy kịch bốn mươi phẩy tám độ xê. Vì gen Đê-E-Xê-Hai đã khóa vĩnh viễn khả năng ngủ toàn phần, Mo chỉ còn một cách duy nhất để cứu mạng bạn: kích hoạt vòng điều biến bán cầu não mô phỏng loài cá heo."
+    },
+    {
+      "beat": "8 climax split hemisphere",
+      "text": "Bên trong buồng sinh học phát sáng, luồng từ trường chia bộ não bạn thành hai nửa độc lập. Bán cầu não trái lập tức tắt lịm vào sóng ngủ sâu để dịch não tủy ùa vào rửa trôi độc tố, trong khi bán cầu não phải vẫn mở mắt nhìn thế giới.",
+      "spoken_text": "Bên trong buồng sinh học phát sáng, luồng từ trường chia bộ não bạn thành hai nửa độc lập. Bán cầu não trái lập tức tắt lịm vào sóng ngủ sâu để dịch não tủy ùa vào rửa trôi độc tố, trong khi bán cầu não phải vẫn mở mắt nhìn thế giới."
+    },
+    {
+      "beat": "8 climax cliffhanger question",
+      "text": "Đứng trên sân thượng giữa thành phố không bao giờ tắt đèn, cứ mỗi 4 giờ một nửa bộ não của bạn lại chìm vào bóng tối và bàn giao cơ thể cho nửa kia điều khiển. Khi hai bán cầu não thay phiên nhau sống và không bao giờ còn thức cùng một lúc, liệu bạn vẫn là chính mình, hay đã trở thành hai con người xa lạ dùng chung một cơ thể?",
+      "spoken_text": "Đứng trên sân thượng giữa thành phố không bao giờ tắt đèn, cứ mỗi bốn giờ một nửa bộ não của bạn lại chìm vào bóng tối và bàn giao cơ thể cho nửa kia điều khiển. Khi hai bán cầu não thay phiên nhau sống và không bao giờ còn thức cùng một lúc, liệu bạn vẫn là chính mình, hay đã trở thành hai con người xa lạ dùng chung một cơ thể?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "Trong giấc ngủ sâu sóng chậm, các tế bào thần kinh đệm co lại làm không gian kẽ trong não giãn rộng thêm 60%, giúp dịch não tủy rửa trôi độc tố Beta-Amyloid và Tau nhanh gấp 10 đến 20 lần so với lúc thức.",
+      "working": "Interstitial volume fraction alpha increases from 0.14 (awake) to 0.23 (sleep) = +64% expansion; radiolabeled Beta-Amyloid clearance rate doubles to 10-20x convective flux.",
+      "source": "Xie, L. & Nedergaard, M. et al., 'Sleep Drives Metabolite Clearance from the Adult Brain', Science 342(6156): 373-377 (2013)."
+    },
+    {
+      "claim": "Bộ não con người nặng 1,4 kg (2% khối lượng cơ thể) với 86 tỷ nơ-ron nhưng tiêu thụ 20% tổng năng lượng toàn thân, tương đương công suất nhiệt khoảng 20 W liên tục.",
+      "working": "2000 kcal/day basal * 0.20 = 400 kcal/day = 1.67e6 J / 86400 s = 19.4 W continuous thermal output across 8.6e10 neurons.",
+      "source": "Raichle, M. E. & Gusnard, D. A., 'Appraising the brain's energy budget', PNAS 99(16): 10237-10239 (2002); Herculano-Houzel, S., PNAS (2009)."
+    },
+    {
+      "claim": "Cá heo mũi chai (Tursiops truncatus) và chim hải âu lớn (Fregata minor) duy trì sự sống nhờ giấc ngủ sóng chậm đơn bán cầu (USWS) luân phiên 2 giờ mỗi bên hoặc các pha ngủ siêu ngắn 12 giây khi đang bay.",
+      "working": "Unihemispheric slow-wave EEG delta power alternates every 90-120 min between left and right hemispheres while contralateral eye remains open.",
+      "source": "Lyamin, O. I. et al., 'Cetacean sleep: An unusual form of mammalian sleep', Neuroscience & Biobehavioral Reviews 32(8): 1451-1484 (2008); Rattenborg, N. C. et al., Nature Communications 7: 12468 (2016)."
+    },
+    {
+      "claim": "150 nghìn tỷ khớp thần kinh (synapses) trong vỏ não phình to thêm khoảng 18% diện tích tiếp xúc khi thức và bắt buộc phải được cắt tỉa (synaptic downscaling) trong giấc ngủ sâu để tránh bão hòa bộ nhớ.",
+      "working": "Serial block-face scanning EM shows axon-spine interface (ASI) decreases by 18.4% after sleep vs wakefulness across cerebral cortex synapses.",
+      "source": "Tononi, G. & Cirelli, C., 'Sleep and the Price of Plasticity: From Synaptic and Cellular Homeostasis to Memory Consolidation and Integration', Neuron 81(1): 12-34 (2014); de Vivo et al., Science 355 (2017)."
+    }
+  ],
+  "shots": {
+    "Sh1": {
+      "scene": "bedroom_awakening",
+      "size": "macro",
+      "note": "Cận cảnh đồng hồ điện tử 03:14 sáng và cánh tay Pip chạm nút tắt báo thức"
+    },
+    "Sh2": {
+      "scene": "bedroom_awakening",
+      "size": "wide",
+      "note": "Toàn cảnh phòng ngủ lúc 03:14 sáng, Pip ngồi thẳng lưng mắt sáng rực"
+    },
+    "Sh3": {
+      "scene": "bedroom_awakening",
+      "size": "extreme_close",
+      "note": "Đặc tả đôi mắt Pip mở to với vòng sáng tập trung xanh lam"
+    },
+    "Sh4": {
+      "scene": "bedroom_awakening",
+      "size": "close",
+      "note": "Cận cảnh Pip vươn vai tràn đầy năng lượng sau 36 giờ không ngủ"
+    },
+    "Sh5": {
+      "scene": "bedroom_awakening",
+      "size": "medium",
+      "note": "Trung cảnh Pip bước khỏi giường trong khi cả thành phố chìm trong bóng tối"
+    },
+    "Sh6": {
+      "scene": "bedroom_awakening",
+      "size": "schematic",
+      "note": "Sơ đồ phân tử Adenosine bị chặn đứng trước thụ thể thần kinh A2A"
+    },
+    "Sh7": {
+      "scene": "subway_dawn",
+      "size": "wide",
+      "note": "Toàn cảnh toa tàu điện ngầm lúc 04:00 sáng, hành khách gục đầu ngủ gật"
+    },
+    "Sh8": {
+      "scene": "subway_dawn",
+      "size": "medium",
+      "note": "Trung cảnh Pip ngồi thẳng lưng đọc sách giữa những hành khách đang ngủ"
+    },
+    "Sh9": {
+      "scene": "subway_dawn",
+      "size": "macro",
+      "note": "Cận cảnh bàn tay Pip lật nhanh từng trang giáo trình vật lý thiên văn 400 trang"
+    },
+    "Sh10": {
+      "scene": "subway_dawn",
+      "size": "close",
+      "note": "Cận cảnh gương mặt Pip với các công thức đạo hàm phản chiếu trong mắt"
+    },
+    "Sh11": {
+      "scene": "subway_dawn",
+      "size": "over",
+      "note": "Góc máy qua vai hành khách ngủ gật nhìn về phía Pip đang đọc sách tốc độ cao"
+    },
+    "Sh12": {
+      "scene": "subway_dawn",
+      "size": "extreme_close",
+      "note": "Đặc tả đồng tử Pip quét qua biểu đồ quang phổ sao với tốc độ siêu phàm"
+    },
+    "Sh13": {
+      "scene": "observatory_sunrise",
+      "size": "wide",
+      "note": "Toàn cảnh phòng sinh hoạt lúc 05:30 sáng, Mo bước vào với hai mắt thâm quầng"
+    },
+    "Sh14": {
+      "scene": "observatory_sunrise",
+      "size": "close",
+      "note": "Cận cảnh gương mặt ngái ngủ của Mo đối lập với sự tỉnh táo của Pip"
+    },
+    "Sh15": {
+      "scene": "observatory_sunrise",
+      "size": "macro",
+      "note": "Cận cảnh tách cà phê đặc bốc khói trên mặt bàn gỗ"
+    },
+    "Sh16": {
+      "scene": "observatory_sunrise",
+      "size": "schematic",
+      "note": "Sơ đồ so sánh cơ chế khóa tạm thời của Caffeine và đột biến gen vĩnh viễn"
+    },
+    "Sh17": {
+      "scene": "observatory_sunrise",
+      "size": "medium",
+      "note": "Trung cảnh Pip đẩy cốc cà phê ra xa vì cơ thể không còn cần chất kích thích"
+    },
+    "Sh18": {
+      "scene": "observatory_sunrise",
+      "size": "over",
+      "note": "Góc máy qua vai Mo nhìn bảng kết quả hiệu chỉnh kính viễn vọng hoàn tất từ nửa đêm"
+    },
+    "Sh19": {
+      "scene": "biomed_premise",
+      "size": "close",
+      "note": "Cận cảnh Mo dụi mắt kinh ngạc trước tốc độ làm việc của Pip"
+    },
+    "Sh20": {
+      "scene": "biomed_premise",
+      "size": "wide",
+      "note": "Toàn cảnh Pip và Mo chuẩn bị bước lên mái vòm đài thiên văn lúc bình minh"
+    },
+    "Sh21": {
+      "scene": "biomed_premise",
+      "size": "low",
+      "note": "Góc máy thấp dưới mái vòm đài thiên văn lúc bình minh 72 giờ không ngủ"
+    },
+    "Sh22": {
+      "scene": "biomed_premise",
+      "size": "close",
+      "note": "Cận cảnh đồng hồ sinh học hiển thị 72 giờ thức trắng và nhịp tim 64 nhịp/phút"
+    },
+    "Sh23": {
+      "scene": "biomed_premise",
+      "size": "wide",
+      "note": "Đại cảnh Title Card: Điều Gì Xảy Ra Nếu Bạn Không Bao Giờ Cần Ngủ Nữ?"
+    },
+    "Sh24": {
+      "scene": "biomed_premise",
+      "size": "schematic",
+      "note": "Sơ đồ 81 năm cuộc đời với 27 năm (1/3 đời người) nằm bất động trong bóng tối"
+    },
+    "Sh25": {
+      "scene": "biomed_premise",
+      "size": "medium",
+      "note": "Trung cảnh Pip và Mo đứng trước kính viễn vọng mở đầu bài toán giả định"
+    },
+    "Sh26": {
+      "scene": "biomed_premise",
+      "size": "extreme_close",
+      "note": "Đặc tả ánh mắt Pip khi bước vào thử nghiệm 3 quy luật sinh tồn"
+    },
+    "Sh27": {
+      "scene": "biomed_premise",
+      "size": "wide",
+      "note": "Toàn cảnh phòng nghiên cứu thần kinh BioMedLab kiểm tra đột biến gen DEC2"
+    },
+    "Sh28": {
+      "scene": "biomed_premise",
+      "size": "schematic",
+      "note": "Sơ đồ Quy luật 1: Đột biến gen DEC2 khóa công tắc ngủ VLPO ở vùng dưới đồi"
+    },
+    "Sh29": {
+      "scene": "biomed_premise",
+      "size": "close",
+      "note": "Cận cảnh màn hình điện não đồ EEG của Pip giữ sóng Beta tỉnh táo 100%"
+    },
+    "Sh30": {
+      "scene": "biomed_premise",
+      "size": "macro",
+      "note": "Cận cảnh tay Mo điều chỉnh thông số màng chắn thụ thể Adenosine"
+    },
+    "Sh31": {
+      "scene": "biomed_premise",
+      "size": "schematic",
+      "note": "Sơ đồ Quy luật 2: Dư ra 8 giờ/ngày = +2.920 giờ/năm (+4,5 tháng sống thực tế)"
+    },
+    "Sh32": {
+      "scene": "biomed_premise",
+      "size": "medium",
+      "note": "Trung cảnh Pip hào hứng nhìn quỹ thời gian tăng thêm 2.920 giờ mỗi năm"
+    },
+    "Sh33": {
+      "scene": "biomed_premise",
+      "size": "extreme_close",
+      "note": "Đặc tả đồng hồ đếm ngược sinh học chạy xuyên qua mốc nửa đêm không nghỉ"
+    },
+    "Sh34": {
+      "scene": "biomed_premise",
+      "size": "schematic",
+      "note": "Sơ đồ Quy luật 3: Chi phí chuyển hóa năng lượng ban ngày suốt 24/24 giờ"
+    },
+    "Sh35": {
+      "scene": "study_polymath",
+      "size": "over",
+      "note": "Góc máy qua vai Mo nhìn buồng chụp nhiệt lượng cơ thể Pip đang tăng cao"
+    },
+    "Sh36": {
+      "scene": "study_polymath",
+      "size": "medium",
+      "note": "Trung cảnh Pip và Mo tổng kết 3 quy luật trước khi bước vào Tháng thứ nhất"
+    },
+    "Sh37": {
+      "scene": "study_polymath",
+      "size": "wide",
+      "note": "Toàn cảnh phòng học lúc 23:00 đêm khi cả khu phố tắt đèn, ca sống thứ 2 bắt đầu"
+    },
+    "Sh38": {
+      "scene": "study_polymath",
+      "size": "close",
+      "note": "Cận cảnh Pip đeo tai nghe học liền 3 ngoại ngữ mới lúc 01:00 sáng"
+    },
+    "Sh39": {
+      "scene": "study_polymath",
+      "size": "macro",
+      "note": "Cận cảnh bàn tay Pip gõ code hệ điều hành AI với tốc độ cao lúc 02:30 sáng"
+    },
+    "Sh40": {
+      "scene": "study_polymath",
+      "size": "medium",
+      "note": "Trung cảnh Pip tập đàn dưới ánh đèn bàn ấm áp lúc 03:45 sáng"
+    },
+    "Sh41": {
+      "scene": "study_polymath",
+      "size": "over",
+      "note": "Góc máy qua vai Pip nhìn Mo đã ngủ gục trên bàn học từ lúc 01:00 sáng"
+    },
+    "Sh42": {
+      "scene": "study_polymath",
+      "size": "close",
+      "note": "Cận cảnh Mo ngủ say với chữ Z bay lên trong khi Pip vẫn tỉnh táo tuyệt đối"
+    },
+    "Sh43": {
+      "scene": "study_polymath",
+      "size": "schematic",
+      "note": "Sơ đồ tích lũy tri thức: 30 ngày không ngủ = 3,5 năm học tập của người thường"
+    },
+    "Sh44": {
+      "scene": "kitchen_midnight",
+      "size": "wide",
+      "note": "Toàn cảnh nhà bếp lúc 02:30 sáng, Pip nấu bữa ăn đêm bù 650 kcal"
+    },
+    "Sh45": {
+      "scene": "kitchen_midnight",
+      "size": "macro",
+      "note": "Cận cảnh khay thức ăn giàu năng lượng trên bàn bếp lúc rạng sáng"
+    },
+    "Sh46": {
+      "scene": "kitchen_midnight",
+      "size": "medium",
+      "note": "Trung cảnh Pip vừa thưởng thức bữa ăn đêm vừa hoàn thiện chồng bản thảo"
+    },
+    "Sh47": {
+      "scene": "kitchen_midnight",
+      "size": "wide",
+      "note": "Toàn cảnh nhà bếp lúc 06:00 sáng, mẹ và em gái bước xuống ngỡ ngàng"
+    },
+    "Sh48": {
+      "scene": "kitchen_midnight",
+      "size": "close",
+      "note": "Cận cảnh biểu cảm kinh ngạc của em gái trước bàn ăn sáng và chồng bản thảo dày"
+    },
+    "Sh49": {
+      "scene": "kitchen_midnight",
+      "size": "over",
+      "note": "Góc máy qua vai mẹ nhìn Pip rót nước cam buổi sáng không chút mệt mỏi"
+    },
+    "Sh50": {
+      "scene": "kitchen_midnight",
+      "size": "low",
+      "note": "Góc máy thấp trên sân thượng đón bình minh lần thứ 60 liên tiếp (1.440 giờ thức)"
+    },
+    "Sh51": {
+      "scene": "kitchen_midnight",
+      "size": "extreme_close",
+      "note": "Đặc tả ánh bình minh phản chiếu trong mắt Pip ở ngày thứ 60"
+    },
+    "Sh52": {
+      "scene": "stairwell_isolation",
+      "size": "wide",
+      "note": "Toàn cảnh cầu thang vắng lặng lúc 03:00 sáng ở Tháng thứ 3 (2.160 giờ thức)"
+    },
+    "Sh53": {
+      "scene": "stairwell_isolation",
+      "size": "close",
+      "note": "Cận cảnh Pip dừng bước bên lan can cầu thang với cảm giác cô độc"
+    },
+    "Sh54": {
+      "scene": "stairwell_isolation",
+      "size": "schematic",
+      "note": "Sơ đồ tâm lý học: 90 ngày không có dấu chấm câu giấc ngủ hòa làm một buổi chiều"
+    },
+    "Sh55": {
+      "scene": "stairwell_isolation",
+      "size": "high",
+      "note": "Góc máy từ trên cao nhìn xuống Pip ngồi một mình giữa cầu thang lúc rạng sáng"
+    },
+    "Sh56": {
+      "scene": "stairwell_isolation",
+      "size": "macro",
+      "note": "Cận cảnh cuốn nhật ký của Pip với các trang ngày 78, 84 và 90 chồng chéo"
+    },
+    "Sh57": {
+      "scene": "stairwell_isolation",
+      "size": "medium",
+      "note": "Trung cảnh Pip nhìn vào gương khi phản xạ hình ảnh trong tâm trí bắt đầu trễ nhịp"
+    },
+    "Sh58": {
+      "scene": "classroom_hallucination",
+      "size": "wide",
+      "note": "Toàn cảnh giảng đường sinh học thần kinh, Pip ngồi cạnh Mo trong trạng thái mơ hồ"
+    },
+    "Sh59": {
+      "scene": "classroom_hallucination",
+      "size": "close",
+      "note": "Cận cảnh gương mặt bối rối của Pip không nhớ cuộc trò chuyện cách đây 20 phút hay 2 tuần"
+    },
+    "Sh60": {
+      "scene": "classroom_hallucination",
+      "size": "schematic",
+      "note": "Sơ đồ áp lực giấc ngủ REM bị dồn nén tràn thẳng vào vỏ não thị giác lúc đang mở mắt"
+    },
+    "Sh61": {
+      "scene": "classroom_hallucination",
+      "size": "over",
+      "note": "Góc máy qua vai Pip nhìn bảng đen biến dạng thành dải sóng tím và chòm sao ảo giác"
+    },
+    "Sh62": {
+      "scene": "classroom_hallucination",
+      "size": "extreme_close",
+      "note": "Đặc tả con mắt mở to của Pip đang chiếu giấc mơ REM trực tiếp lên thực tại"
+    },
+    "Sh63": {
+      "scene": "classroom_hallucination",
+      "size": "medium",
+      "note": "Trung cảnh Pip đưa tay chạm vào chòm sao ảo giác giữa lớp trước ánh mắt lo lắng của Mo"
+    },
+    "Sh64": {
+      "scene": "classroom_hallucination",
+      "size": "macro",
+      "note": "Cận cảnh bàn tay Pip cầm bút run lên từng nhịp nhỏ trên trang vở"
+    },
+    "Sh65": {
+      "scene": "classroom_hallucination",
+      "size": "close",
+      "note": "Cận cảnh quét nhiệt vùng trán của Pip tăng vọt lên mức 38,6 độ C"
+    },
+    "Sh66": {
+      "scene": "classroom_hallucination",
+      "size": "wide",
+      "note": "Toàn cảnh giảng đường chuyển sang ánh sáng đỏ cảnh báo mở đầu Bước ngoặt Khoa học"
+    },
+    "Sh67": {
+      "scene": "glymphatic_science",
+      "size": "schematic",
+      "note": "Sơ đồ nghịch lý tiến hóa và phát hiện hệ thống Glymphatic năm 2013"
+    },
+    "Sh68": {
+      "scene": "glymphatic_science",
+      "size": "close",
+      "note": "Cận cảnh mặt cắt giải phẫu não bộ với dòng dịch não tủy CSF"
+    },
+    "Sh69": {
+      "scene": "glymphatic_science",
+      "size": "macro",
+      "note": "Cận cảnh mô não lúc thức: các tế bào thần kinh đệm nằm sát khít chặn dòng dịch"
+    },
+    "Sh70": {
+      "scene": "glymphatic_science",
+      "size": "medium",
+      "note": "Mô phỏng giấc ngủ sâu sóng chậm: tế bào hình sao co lại mở rộng khe kẽ thêm 60%"
+    },
+    "Sh71": {
+      "scene": "glymphatic_science",
+      "size": "wide",
+      "note": "Toàn cảnh luồng dịch não tủy áp lực cao rửa trôi độc tố nhanh gấp 20 lần"
+    },
+    "Sh72": {
+      "scene": "glymphatic_science",
+      "size": "close",
+      "note": "Cận cảnh hai loại rác thải thần kinh nguy hiểm: Beta-Amyloid và Protein Tau"
+    },
+    "Sh73": {
+      "scene": "glymphatic_science",
+      "size": "schematic",
+      "note": "Sơ đồ tích tụ 20 mg độc tố mỗi ngày tương đương hơn 7 gam mảng bám mỗi năm"
+    },
+    "Sh74": {
+      "scene": "glymphatic_science",
+      "size": "extreme_close",
+      "note": "Đặc tả khớp thần kinh bị mảng bám Beta-Amyloid bít kín đường truyền trí nhớ"
+    },
+    "Sh75": {
+      "scene": "glymphatic_science",
+      "size": "wide",
+      "note": "Sơ đồ nhiệt động lực học: não nặng 1,4 kg (2% cơ thể, 86 tỷ nơ-ron) ngốn 20% năng lượng"
+    },
+    "Sh76": {
+      "scene": "glymphatic_science",
+      "size": "close",
+      "note": "Cận cảnh bộ não phát nhiệt liên tục tương đương bóng đèn công suất 20 W"
+    },
+    "Sh77": {
+      "scene": "glymphatic_science",
+      "size": "schematic",
+      "note": "Đồ thị hạ nhiệt lõi não 1,2 độ C khi ngủ sâu so với đường nhiệt tăng vọt khi thức 24/7"
+    },
+    "Sh78": {
+      "scene": "glymphatic_science",
+      "size": "macro",
+      "note": "Cận cảnh quá trình tái tạo năng lượng phân tử ATP trong pha ngủ sâu mát mẻ"
+    },
+    "Sh79": {
+      "scene": "glymphatic_science",
+      "size": "medium",
+      "note": "Mô phỏng ti thể quá nhiệt rò rỉ gốc tự do ô-xy hóa ROS khi không được nghỉ"
+    },
+    "Sh80": {
+      "scene": "glymphatic_science",
+      "size": "extreme_close",
+      "note": "Đặc tả lớp vỏ bọc cách điện Myelin quanh sợi trục thần kinh bị tổn thương vì nhiệt"
+    },
+    "Sh81": {
+      "scene": "glymphatic_science",
+      "size": "close",
+      "note": "Cận cảnh Pip và Mo trong phòng lab kiểm tra cảnh báo tổn thương vỏ Myelin"
+    },
+    "Sh82": {
+      "scene": "glymphatic_science",
+      "size": "over",
+      "note": "Góc máy qua vai Mo mở cơ sở dữ liệu tiến hóa động vật biển và chim di cư"
+    },
+    "Sh83": {
+      "scene": "zoo_ocean_abyss",
+      "size": "wide",
+      "note": "Toàn cảnh đại dương sâu 420 mét với cá heo mũi chai bơi lội liên tục"
+    },
+    "Sh84": {
+      "scene": "zoo_ocean_abyss",
+      "size": "close",
+      "note": "Zoom giải phẫu và kính lúp hộp sọ cá heo: Giấc ngủ sóng chậm đơn bán cầu (USWS)"
+    },
+    "Sh85": {
+      "scene": "zoo_ocean_abyss",
+      "size": "macro",
+      "note": "Zoom giải phẫu và kính lúp mắt mở canh gác cùng buồng phổi hít thở của cá heo"
+    },
+    "Sh86": {
+      "scene": "zoo_ocean_abyss",
+      "size": "schematic",
+      "note": "Sơ đồ chu kỳ đổi ca 120 phút giữa bán cầu não trái và bán cầu não phải của cá heo"
+    },
+    "Sh87": {
+      "scene": "zoo_ocean_abyss",
+      "size": "medium",
+      "note": "Trung cảnh cá heo mũi chai trồi lên mặt nước hít thở nhịp nhàng khi đang ngủ nửa não"
+    },
+    "Sh88": {
+      "scene": "zoo_ocean_abyss",
+      "size": "wide",
+      "note": "Toàn cảnh cá mập trắng lớn bơi không ngừng để ép dòng nước giàu ô-xy qua mang"
+    },
+    "Sh89": {
+      "scene": "zoo_ocean_abyss",
+      "size": "close",
+      "note": "Zoom giải phẫu và kính lúp cột sống cá mập: Mạng lưới phát nhịp tủy sống tự hành (CPG)"
+    },
+    "Sh90": {
+      "scene": "zoo_ocean_abyss",
+      "size": "macro",
+      "note": "Zoom giải phẫu và kính lúp quả tim và tuần hoàn mang của cá mập khi não trước nghỉ ngơi"
+    },
+    "Sh91": {
+      "scene": "zoo_ocean_abyss",
+      "size": "over",
+      "note": "Góc máy qua cửa sổ tàu lặn quan sát cá heo và cá mập trong lòng đại dương"
+    },
+    "Sh92": {
+      "scene": "zoo_ocean_abyss",
+      "size": "schematic",
+      "note": "Sơ đồ tổng hợp cơ chế ngủ khi đang bơi của cá heo và cá mập trắng"
+    },
+    "Sh93": {
+      "scene": "zoo_forest_sky",
+      "size": "wide",
+      "note": "Toàn cảnh đại bàng và chim di cư bay vượt đại dương 10 ngày liền (10.000 km)"
+    },
+    "Sh94": {
+      "scene": "zoo_forest_sky",
+      "size": "close",
+      "note": "Zoom giải phẫu và kính lúp mắt và võng mạc đại bàng định hướng theo luồng khí nóng"
+    },
+    "Sh95": {
+      "scene": "zoo_forest_sky",
+      "size": "macro",
+      "note": "Zoom giải phẫu và kính lúp não đại bàng thực hiện vi giấc ngủ 12 giây giữa không trung"
+    },
+    "Sh96": {
+      "scene": "zoo_forest_sky",
+      "size": "medium",
+      "note": "Trung cảnh mèo rừng săn đêm dưới tán cây với nhịp ngủ ngắn đa chu kỳ"
+    },
+    "Sh97": {
+      "scene": "zoo_forest_sky",
+      "size": "close",
+      "note": "Zoom giải phẫu và kính lúp nơ-ron vỏ não và cột sống mèo giữ phản xạ 70 mili-giây"
+    },
+    "Sh98": {
+      "scene": "zoo_forest_sky",
+      "size": "schematic",
+      "note": "Sơ đồ so sánh 4 chiến lược tiến hóa của cá heo, cá mập, đại bàng và mèo rừng"
+    },
+    "Sh99": {
+      "scene": "highway_society",
+      "size": "wide",
+      "note": "Toàn cảnh đường cao tốc trên cao lúc 03:00 sáng đông đúc khi 8 tỷ người không ngủ"
+    },
+    "Sh100": {
+      "scene": "highway_society",
+      "size": "schematic",
+      "note": "Sơ đồ sụp đổ ngành công nghiệp nệm, chăn gối và khách sạn nghỉ đêm 580 tỷ USD"
+    },
+    "Sh101": {
+      "scene": "highway_society",
+      "size": "medium",
+      "note": "Trung cảnh Pip trên cầu vượt trước bảng thông báo nâng chuẩn làm việc lên 16 giờ/ngày"
+    },
+    "Sh102": {
+      "scene": "highway_society",
+      "size": "close",
+      "note": "Cận cảnh Pip sững sờ khi 8 giờ dư ra bị biến thành ca làm việc gấp đôi"
+    },
+    "Sh103": {
+      "scene": "highway_society",
+      "size": "schematic",
+      "note": "Biểu đồ phụ tải lưới điện toàn cầu tăng vọt lúc 03:30 sáng vì không có giờ thấp điểm"
+    },
+    "Sh104": {
+      "scene": "highway_society",
+      "size": "over",
+      "note": "Góc máy qua vai nhìn xuống dòng xe cộ và trạm biến áp quá tải đỏ rực lúc rạng sáng"
+    },
+    "Sh105": {
+      "scene": "highway_society",
+      "size": "macro",
+      "note": "Cận cảnh đồng hồ đo phụ tải điện vượt ngưỡng báo động đỏ 142,8%"
+    },
+    "Sh106": {
+      "scene": "highway_society",
+      "size": "wide",
+      "note": "Toàn cảnh bầu trời đô thị phát tia lửa điện do hạ tầng chạy 24/24 không hạ nhiệt"
+    },
+    "Sh107": {
+      "scene": "server_vault_crisis",
+      "size": "medium",
+      "note": "Trung cảnh Pip và Mo bên trong trung tâm dữ liệu ngầm hoạt động hết công suất"
+    },
+    "Sh108": {
+      "scene": "server_vault_crisis",
+      "size": "close",
+      "note": "Cận cảnh Mo chỉ vào đường ống làm mát máy chủ đang sôi lên ở 98 độ C"
+    },
+    "Sh109": {
+      "scene": "server_vault_crisis",
+      "size": "schematic",
+      "note": "Sơ đồ khủng hoảng lương thực toàn cầu khi 8 tỷ người tiêu thụ thêm calo mỗi đêm"
+    },
+    "Sh110": {
+      "scene": "server_vault_crisis",
+      "size": "macro",
+      "note": "Cận cảnh bảng định mức dinh dưỡng bắt buộc 3.400 kcal mỗi ngày"
+    },
+    "Sh111": {
+      "scene": "server_vault_crisis",
+      "size": "medium",
+      "note": "Trung cảnh xung đột cảm xúc bùng phát giữa ca trực thứ ba do hạch hạnh nhân quá tải"
+    },
+    "Sh112": {
+      "scene": "server_vault_crisis",
+      "size": "extreme_close",
+      "note": "Đặc tả đôi mắt đỏ ngầu căng thẳng khi hormone Cortisol và hạch hạnh nhân tăng vọt"
+    },
+    "Sh113": {
+      "scene": "server_vault_crisis",
+      "size": "schematic",
+      "note": "Sơ đồ đứt gãy kết nối kiểm soát giữa vỏ não trước trán và hạch hạnh nhân"
+    },
+    "Sh114": {
+      "scene": "server_vault_crisis",
+      "size": "over",
+      "note": "Góc máy qua vai Pip nhìn đèn báo động đỏ chớp tắt dọc hành lang trung tâm dữ liệu"
+    },
+    "Sh115": {
+      "scene": "server_vault_crisis",
+      "size": "close",
+      "note": "Cận cảnh Pip ôm hai thái dương đau nhức khi chạm cột mốc 1 năm (8.760 giờ) không ngủ"
+    },
+    "Sh116": {
+      "scene": "server_vault_crisis",
+      "size": "wide",
+      "note": "Toàn cảnh Mo dìu Pip rời khỏi trung tâm dữ liệu về phía khu cấp cứu thần kinh"
+    },
+    "Sh117": {
+      "scene": "icu_saturation",
+      "size": "medium",
+      "note": "Trung cảnh phòng cấp cứu thần kinh HospitalICU ở cột mốc 8.760 giờ thức trắng"
+    },
+    "Sh118": {
+      "scene": "icu_saturation",
+      "size": "schematic",
+      "note": "Sơ đồ nguyên lý cân bằng nội môi khớp thần kinh của Tononi và Cirelli"
+    },
+    "Sh119": {
+      "scene": "icu_saturation",
+      "size": "macro",
+      "note": "Cận cảnh vi mô 150 nghìn tỷ khớp thần kinh phình to thêm 18% mà không được cắt tỉa"
+    },
+    "Sh120": {
+      "scene": "icu_saturation",
+      "size": "medium",
+      "note": "Trung cảnh Pip ngồi bên máy theo dõi sinh tồn báo động nhịp tim 138 BPM"
+    },
+    "Sh121": {
+      "scene": "icu_saturation",
+      "size": "close",
+      "note": "Cận cảnh gương mặt kiệt quệ của Pip khi bộ nhớ hồi hải mã chạm ngưỡng bão hòa 100%"
+    },
+    "Sh122": {
+      "scene": "icu_saturation",
+      "size": "over",
+      "note": "Góc máy qua vai Mo nhìn bảng cảnh báo bão hòa bộ nhớ và suy giảm miễn dịch"
+    },
+    "Sh123": {
+      "scene": "icu_saturation",
+      "size": "schematic",
+      "note": "Sơ đồ y học so sánh kỷ lục 264 giờ của Randy Gardner và chứng mất ngủ gia đình FFI"
+    },
+    "Sh124": {
+      "scene": "icu_saturation",
+      "size": "extreme_close",
+      "note": "Đặc tả đồng tử của Pip mất tiêu cự khi quên sạch câu nói vừa nghe sau 10 giây"
+    },
+    "Sh125": {
+      "scene": "icu_saturation",
+      "size": "medium",
+      "note": "Trung cảnh Mo công bố thiết bị vòng điều biến bán cầu não mô phỏng loài cá heo"
+    },
+    "Sh126": {
+      "scene": "icu_saturation",
+      "size": "wide",
+      "note": "Toàn cảnh Pip và Mo tiến vào buồng sinh học để kích hoạt phác đồ ngủ đơn bán cầu"
+    },
+    "Sh127": {
+      "scene": "biomed_cliffhanger",
+      "size": "medium",
+      "note": "Trung cảnh Pip và Mo bên cạnh buồng điều biến rửa não Glymphatic nhân tạo"
+    },
+    "Sh128": {
+      "scene": "biomed_cliffhanger",
+      "size": "macro",
+      "note": "Cận cảnh tay Mo hiệu chỉnh vòng từ trường chia đôi bán cầu não và làm mát -1,2 độ C"
+    },
+    "Sh129": {
+      "scene": "biomed_cliffhanger",
+      "size": "close",
+      "note": "Cận cảnh Pip đội vòng điều biến phát sáng xanh lam kích hoạt rửa não bán cầu trái"
+    },
+    "Sh130": {
+      "scene": "biomed_cliffhanger",
+      "size": "schematic",
+      "note": "Sơ đồ luân phiên bán cầu não: nửa trái ngủ sâu rửa độc tố trong khi nửa phải mở mắt"
+    },
+    "Sh131": {
+      "scene": "biomed_cliffhanger",
+      "size": "extreme_close",
+      "note": "Đặc tả chỉ số độc tố thần kinh của Pip giảm từ 94% xuống mức 12% an toàn"
+    },
+    "Sh132": {
+      "scene": "biomed_cliffhanger",
+      "size": "medium",
+      "note": "Trung cảnh Pip và Mo mỉm cười khi vỏ bọc Myelin và dung lượng khớp thần kinh phục hồi"
+    },
+    "Sh133": {
+      "scene": "biomed_cliffhanger",
+      "size": "over",
+      "note": "Góc máy qua vai Mo nhìn thông điệp: 8 giờ ngủ là 8 giờ bảo trì sự sống tối thượng"
+    },
+    "Sh134": {
+      "scene": "biomed_cliffhanger",
+      "size": "wide",
+      "note": "Toàn cảnh Pip đứng trên sân thượng giữa thành phố rực sáng khi hai bán cầu đổi ca"
+    },
+    "Sh135": {
+      "scene": "biomed_cliffhanger",
+      "size": "close",
+      "note": "Cận cảnh Pip nhắm mắt đón nhận ca trực đêm kỳ diệu của hệ thống rửa não"
+    },
+    "Sh136": {
+      "scene": "biomed_cliffhanger",
+      "size": "schematic",
+      "note": "Sơ đồ tổng kết 4 phép màu sinh học diễn ra mỗi đêm khi con người chìm vào giấc ngủ"
+    },
+    "Sh137": {
+      "scene": "biomed_cliffhanger",
+      "size": "medium",
+      "note": "Trung cảnh Pip và Mo dưới mái vòm đầy sao của đài thiên văn"
+    },
+    "Sh138": {
+      "scene": "biomed_cliffhanger",
+      "size": "close",
+      "note": "Cận cảnh Pip đặt câu hỏi triết học về hai nửa bộ não thay phiên nhau sống"
+    },
+    "Sh139": {
+      "scene": "biomed_cliffhanger",
+      "size": "wide",
+      "note": "Toàn cảnh kết phim dưới bầu trời sao: Liệu bạn vẫn là chính mình hay hai người xa lạ?"
+    },
+    "Sh140": {
+      "scene": "biomed_cliffhanger",
+      "size": "extreme_close",
+      "note": "Đặc tả đôi mắt phát sáng xanh lam của Pip khép lại câu hỏi mở cuối phim"
+    }
+  },
+  "edit": [
+    {
+      "at": "s:0",
+      "shot": "Sh1"
+    },
+    {
+      "at": "s:2.35",
+      "shot": "Sh2"
+    },
+    {
+      "at": "s:4.70",
+      "shot": "Sh3"
+    },
+    {
+      "at": "s:7.05",
+      "shot": "Sh4"
+    },
+    {
+      "at": "s:9.50",
+      "shot": "Sh5"
+    },
+    {
+      "at": "s:13.85",
+      "shot": "Sh6"
+    },
+    {
+      "at": "s:18.21",
+      "shot": "Sh7"
+    },
+    {
+      "at": "s:20.96",
+      "shot": "Sh8"
+    },
+    {
+      "at": "s:23.72",
+      "shot": "Sh9"
+    },
+    {
+      "at": "s:26.48",
+      "shot": "Sh10"
+    },
+    {
+      "at": "s:29.23",
+      "shot": "Sh11"
+    },
+    {
+      "at": "s:31.99",
+      "shot": "Sh12"
+    },
+    {
+      "at": "s:34.75",
+      "shot": "Sh13"
+    },
+    {
+      "at": "s:37.56",
+      "shot": "Sh14"
+    },
+    {
+      "at": "s:40.38",
+      "shot": "Sh15"
+    },
+    {
+      "at": "s:43.19",
+      "shot": "Sh16"
+    },
+    {
+      "at": "s:46.00",
+      "shot": "Sh17"
+    },
+    {
+      "at": "s:48.82",
+      "shot": "Sh18"
+    },
+    {
+      "at": "s:51.63",
+      "shot": "Sh19"
+    },
+    {
+      "at": "s:54.89",
+      "shot": "Sh20"
+    },
+    {
+      "at": "s:58.14",
+      "shot": "Sh21"
+    },
+    {
+      "at": "s:61.39",
+      "shot": "Sh22"
+    },
+    {
+      "at": "s:64.64",
+      "shot": "Sh23"
+    },
+    {
+      "at": "s:67.90",
+      "shot": "Sh24"
+    },
+    {
+      "at": "s:71.15",
+      "shot": "Sh25"
+    },
+    {
+      "at": "s:74.40",
+      "shot": "Sh26"
+    },
+    {
+      "at": "s:77.66",
+      "shot": "Sh27"
+    },
+    {
+      "at": "s:80.91",
+      "shot": "Sh28"
+    },
+    {
+      "at": "s:84.16",
+      "shot": "Sh29"
+    },
+    {
+      "at": "s:87.42",
+      "shot": "Sh30"
+    },
+    {
+      "at": "s:90.67",
+      "shot": "Sh31"
+    },
+    {
+      "at": "s:93.92",
+      "shot": "Sh32"
+    },
+    {
+      "at": "s:97.17",
+      "shot": "Sh33"
+    },
+    {
+      "at": "s:100.43",
+      "shot": "Sh34"
+    },
+    {
+      "at": "s:103.68",
+      "shot": "Sh35"
+    },
+    {
+      "at": "s:106.30",
+      "shot": "Sh36"
+    },
+    {
+      "at": "s:108.92",
+      "shot": "Sh37"
+    },
+    {
+      "at": "s:111.54",
+      "shot": "Sh38"
+    },
+    {
+      "at": "s:114.15",
+      "shot": "Sh39"
+    },
+    {
+      "at": "s:116.77",
+      "shot": "Sh40"
+    },
+    {
+      "at": "s:119.39",
+      "shot": "Sh41"
+    },
+    {
+      "at": "s:122.01",
+      "shot": "Sh42"
+    },
+    {
+      "at": "s:124.63",
+      "shot": "Sh43"
+    },
+    {
+      "at": "s:127.24",
+      "shot": "Sh44"
+    },
+    {
+      "at": "s:129.90",
+      "shot": "Sh45"
+    },
+    {
+      "at": "s:132.55",
+      "shot": "Sh46"
+    },
+    {
+      "at": "s:135.21",
+      "shot": "Sh47"
+    },
+    {
+      "at": "s:137.86",
+      "shot": "Sh48"
+    },
+    {
+      "at": "s:140.52",
+      "shot": "Sh49"
+    },
+    {
+      "at": "s:143.17",
+      "shot": "Sh50"
+    },
+    {
+      "at": "s:145.83",
+      "shot": "Sh51"
+    },
+    {
+      "at": "s:148.48",
+      "shot": "Sh52"
+    },
+    {
+      "at": "s:151.23",
+      "shot": "Sh53"
+    },
+    {
+      "at": "s:153.98",
+      "shot": "Sh54"
+    },
+    {
+      "at": "s:156.72",
+      "shot": "Sh55"
+    },
+    {
+      "at": "s:159.47",
+      "shot": "Sh56"
+    },
+    {
+      "at": "s:162.22",
+      "shot": "Sh57"
+    },
+    {
+      "at": "s:164.96",
+      "shot": "Sh58"
+    },
+    {
+      "at": "s:168.37",
+      "shot": "Sh59"
+    },
+    {
+      "at": "s:171.77",
+      "shot": "Sh60"
+    },
+    {
+      "at": "s:175.17",
+      "shot": "Sh61"
+    },
+    {
+      "at": "s:178.58",
+      "shot": "Sh62"
+    },
+    {
+      "at": "s:181.98",
+      "shot": "Sh63"
+    },
+    {
+      "at": "s:185.38",
+      "shot": "Sh64"
+    },
+    {
+      "at": "s:188.78",
+      "shot": "Sh65"
+    },
+    {
+      "at": "s:192.19",
+      "shot": "Sh66"
+    },
+    {
+      "at": "s:195.59",
+      "shot": "Sh67"
+    },
+    {
+      "at": "s:200.22",
+      "shot": "Sh68"
+    },
+    {
+      "at": "s:204.84",
+      "shot": "Sh69"
+    },
+    {
+      "at": "s:209.47",
+      "shot": "Sh70"
+    },
+    {
+      "at": "s:214.10",
+      "shot": "Sh71"
+    },
+    {
+      "at": "s:218.73",
+      "shot": "Sh72"
+    },
+    {
+      "at": "s:223.35",
+      "shot": "Sh73"
+    },
+    {
+      "at": "s:227.98",
+      "shot": "Sh74"
+    },
+    {
+      "at": "s:232.61",
+      "shot": "Sh75"
+    },
+    {
+      "at": "s:237.23",
+      "shot": "Sh76"
+    },
+    {
+      "at": "s:241.86",
+      "shot": "Sh77"
+    },
+    {
+      "at": "s:246.49",
+      "shot": "Sh78"
+    },
+    {
+      "at": "s:251.12",
+      "shot": "Sh79"
+    },
+    {
+      "at": "s:255.74",
+      "shot": "Sh80"
+    },
+    {
+      "at": "s:260.37",
+      "shot": "Sh81"
+    },
+    {
+      "at": "s:265.00",
+      "shot": "Sh82"
+    },
+    {
+      "at": "s:269.63",
+      "shot": "Sh83"
+    },
+    {
+      "at": "s:275.14",
+      "shot": "Sh84"
+    },
+    {
+      "at": "s:280.66",
+      "shot": "Sh85"
+    },
+    {
+      "at": "s:286.18",
+      "shot": "Sh86"
+    },
+    {
+      "at": "s:291.69",
+      "shot": "Sh87"
+    },
+    {
+      "at": "s:297.21",
+      "shot": "Sh88"
+    },
+    {
+      "at": "s:302.72",
+      "shot": "Sh89"
+    },
+    {
+      "at": "s:308.24",
+      "shot": "Sh90"
+    },
+    {
+      "at": "s:313.76",
+      "shot": "Sh91"
+    },
+    {
+      "at": "s:319.27",
+      "shot": "Sh92"
+    },
+    {
+      "at": "s:324.79",
+      "shot": "Sh93"
+    },
+    {
+      "at": "s:328.47",
+      "shot": "Sh94"
+    },
+    {
+      "at": "s:332.14",
+      "shot": "Sh95"
+    },
+    {
+      "at": "s:335.82",
+      "shot": "Sh96"
+    },
+    {
+      "at": "s:339.49",
+      "shot": "Sh97"
+    },
+    {
+      "at": "s:343.17",
+      "shot": "Sh98"
+    },
+    {
+      "at": "s:346.84",
+      "shot": "Sh99"
+    },
+    {
+      "at": "s:351.58",
+      "shot": "Sh100"
+    },
+    {
+      "at": "s:356.31",
+      "shot": "Sh101"
+    },
+    {
+      "at": "s:361.04",
+      "shot": "Sh102"
+    },
+    {
+      "at": "s:365.78",
+      "shot": "Sh103"
+    },
+    {
+      "at": "s:370.51",
+      "shot": "Sh104"
+    },
+    {
+      "at": "s:375.25",
+      "shot": "Sh105"
+    },
+    {
+      "at": "s:379.98",
+      "shot": "Sh106"
+    },
+    {
+      "at": "s:384.72",
+      "shot": "Sh107"
+    },
+    {
+      "at": "s:388.49",
+      "shot": "Sh108"
+    },
+    {
+      "at": "s:392.26",
+      "shot": "Sh109"
+    },
+    {
+      "at": "s:396.04",
+      "shot": "Sh110"
+    },
+    {
+      "at": "s:399.81",
+      "shot": "Sh111"
+    },
+    {
+      "at": "s:403.59",
+      "shot": "Sh112"
+    },
+    {
+      "at": "s:407.36",
+      "shot": "Sh113"
+    },
+    {
+      "at": "s:411.13",
+      "shot": "Sh114"
+    },
+    {
+      "at": "s:414.91",
+      "shot": "Sh115"
+    },
+    {
+      "at": "s:418.68",
+      "shot": "Sh116"
+    },
+    {
+      "at": "s:422.45",
+      "shot": "Sh117"
+    },
+    {
+      "at": "s:426.38",
+      "shot": "Sh118"
+    },
+    {
+      "at": "s:430.30",
+      "shot": "Sh119"
+    },
+    {
+      "at": "s:434.23",
+      "shot": "Sh120"
+    },
+    {
+      "at": "s:438.15",
+      "shot": "Sh121"
+    },
+    {
+      "at": "s:442.08",
+      "shot": "Sh122"
+    },
+    {
+      "at": "s:446.00",
+      "shot": "Sh123"
+    },
+    {
+      "at": "s:449.93",
+      "shot": "Sh124"
+    },
+    {
+      "at": "s:453.85",
+      "shot": "Sh125"
+    },
+    {
+      "at": "s:457.78",
+      "shot": "Sh126"
+    },
+    {
+      "at": "s:461.70",
+      "shot": "Sh127"
+    },
+    {
+      "at": "s:464.81",
+      "shot": "Sh128"
+    },
+    {
+      "at": "s:467.92",
+      "shot": "Sh129"
+    },
+    {
+      "at": "s:471.03",
+      "shot": "Sh130"
+    },
+    {
+      "at": "s:474.14",
+      "shot": "Sh131"
+    },
+    {
+      "at": "s:477.25",
+      "shot": "Sh132"
+    },
+    {
+      "at": "s:480.36",
+      "shot": "Sh133"
+    },
+    {
+      "at": "s:483.48",
+      "shot": "Sh134"
+    },
+    {
+      "at": "s:486.59",
+      "shot": "Sh135"
+    },
+    {
+      "at": "s:489.70",
+      "shot": "Sh136"
+    },
+    {
+      "at": "s:492.81",
+      "shot": "Sh137"
+    },
+    {
+      "at": "s:495.92",
+      "shot": "Sh138"
+    },
+    {
+      "at": "s:499.03",
+      "shot": "Sh139"
+    },
+    {
+      "at": "s:502.14",
+      "shot": "Sh140"
+    }
+  ],
+  "fx": {
+    "flashes": [
+      "s:4.8",
+      "s:75.0",
+      "s:230.8",
+      "s:296.1",
+      "s:415.7",
+      "s:459.6"
+    ],
+    "shakes": [
+      {
+        "at": "s:230.8",
+        "dur": 10,
+        "amp": 8
+      },
+      {
+        "at": "s:375.8",
+        "dur": 12,
+        "amp": 9
+      },
+      {
+        "at": "s:415.7",
+        "dur": 14,
+        "amp": 10
+      }
+    ]
+  },
+  "sound": {
+    "clips": {
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "shatter": [
+        "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+        1.3
+      ],
+      "rewind": [
+        "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+        1.6
+      ],
+      "rewind_start": [
+        "a quick reverse swoosh, like a sound being sucked backwards",
+        0.7
+      ],
+      "catch": [
+        "a hand catching a ceramic mug mid-air, soft slap and thud",
+        0.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "shades": [
+        "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+        0.9
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "clock_back": [
+        "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+        1.6
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "bulb_pop": [
+        "a small light bulb popping out, a tiny glass tink and fizz",
+        0.5
+      ],
+      "select": [
+        "a soft UI digital scan reticle lock chime, short",
+        0.6
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "class_murmur": [
+        "a quiet classroom murmur, kids whispering, chairs shuffling",
+        2.0
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        140.0
+      ]
+    },
+    "events": [
+      [
+        "s:0.0",
+        "room_tone",
+        0.12,
+        "onset",
+        "s:38.0"
+      ],
+      [
+        "s:2.4",
+        "select",
+        0.42
+      ],
+      [
+        "s:4.8",
+        "sparkle",
+        0.38
+      ],
+      [
+        "s:16.8",
+        "clock_back",
+        0.36,
+        "onset",
+        "s:24.0"
+      ],
+      [
+        "s:34.8",
+        "ding",
+        0.42
+      ],
+      [
+        "s:45.6",
+        "clink",
+        0.38
+      ],
+      [
+        "s:67.2",
+        "roof_wind",
+        0.14,
+        "onset",
+        "s:88.0"
+      ],
+      [
+        "s:74.4",
+        "title_boom",
+        0.28,
+        "peak"
+      ],
+      [
+        "s:88.8",
+        "select",
+        0.42
+      ],
+      [
+        "s:103.2",
+        "ding",
+        0.42
+      ],
+      [
+        "s:124.8",
+        "room_tone",
+        0.12,
+        "onset",
+        "s:170.0"
+      ],
+      [
+        "s:132.0",
+        "sparkle",
+        0.36
+      ],
+      [
+        "s:164.4",
+        "pop",
+        0.4
+      ],
+      [
+        "s:171.6",
+        "shades",
+        0.44
+      ],
+      [
+        "s:178.8",
+        "drone_hit",
+        0.48
+      ],
+      [
+        "s:182.4",
+        "step",
+        0.45
+      ],
+      [
+        "s:200.4",
+        "class_murmur",
+        0.12,
+        "onset",
+        "s:228.0"
+      ],
+      [
+        "s:211.2",
+        "rewind_start",
+        0.45,
+        "peak"
+      ],
+      [
+        "s:229.2",
+        "drone_hit",
+        0.52
+      ],
+      [
+        "s:236.4",
+        "select",
+        0.42
+      ],
+      [
+        "s:247.2",
+        "fall_whoosh",
+        0.42,
+        "peak"
+      ],
+      [
+        "s:279.6",
+        "crack",
+        0.5
+      ],
+      [
+        "s:294.0",
+        "select",
+        0.46
+      ],
+      [
+        "s:297.6",
+        "select",
+        0.46
+      ],
+      [
+        "s:312.0",
+        "select",
+        0.46
+      ],
+      [
+        "s:315.6",
+        "select",
+        0.46
+      ],
+      [
+        "s:330.0",
+        "select",
+        0.46
+      ],
+      [
+        "s:333.6",
+        "select",
+        0.46
+      ],
+      [
+        "s:340.8",
+        "select",
+        0.46
+      ],
+      [
+        "s:348.0",
+        "roof_wind",
+        0.15,
+        "onset",
+        "s:376.0"
+      ],
+      [
+        "s:373.2",
+        "crack",
+        0.54
+      ],
+      [
+        "s:380.4",
+        "drone_hit",
+        0.5
+      ],
+      [
+        "s:394.8",
+        "crack",
+        0.52
+      ],
+      [
+        "s:412.8",
+        "title_boom",
+        0.28,
+        "peak"
+      ],
+      [
+        "s:438.0",
+        "drone_hit",
+        0.5
+      ],
+      [
+        "s:456.0",
+        "sparkle",
+        0.44
+      ],
+      [
+        "s:463.2",
+        "ding",
+        0.46
+      ],
+      [
+        "s:474.0",
+        "roof_wind",
+        0.14,
+        "onset",
+        "s:504.0"
+      ],
+      [
+        "s:496.2",
+        "title_boom",
+        0.28,
+        "peak"
+      ]
+    ],
+    "repeats": [
+      {
+        "at": "s:373.2",
+        "clip": "bulb_pop",
+        "n": 12,
+        "every": 3,
+        "gain": [
+          0.15,
+          0.25
+        ],
+        "pitch": [
+          0.9,
+          1.15
+        ]
+      }
+    ],
+    "music": {
+      "clip": "music",
+      "until": "s:229.2"
+    },
+    "levels": {
+      "sfx_lu": -16.8,
+      "music_lu": -16.5
+    }
+  }
+}
